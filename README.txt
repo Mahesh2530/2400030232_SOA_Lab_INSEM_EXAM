@@ -1,4 +1,4 @@
-SOA LAB COMPLETE MAVEN PROJECT
+
 Requirements: JDK 17, Maven 3.8+, internet for first dependency download.
 
 Run each project in a separate terminal:
